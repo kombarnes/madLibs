@@ -18,7 +18,9 @@ h1{
     }
 }
 body{
-    background-image: linear-gradient(90deg,pink, lightblue);
+    background-image: linear-gradient(90deg,pink, orange);
+    text-align: center;
+    
 }
 
 input{
@@ -27,7 +29,9 @@ input{
     height: 50px;
     width: 300px;
     text-align: center;
-    justify-items: center;
+    border-radius: 15px;
+ 
+    
 }
 
 input:hover{
@@ -40,5 +44,7 @@ button{
     height: 50px;
     width: 300px;
 }
+
+
 
 
