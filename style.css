@@ -18,6 +18,27 @@ h1{
     }
 }
 body{
-    background-image: linear-gradient(90deg,pink,palevioletred);
+    background-image: linear-gradient(90deg,pink, lightblue);
 }
+
+input{
+    font-family: 'Dancing Script', cursive;
+    font-size: 20pt;
+    height: 50px;
+    width: 300px;
+    text-align: center;
+    justify-items: center;
+}
+
+input:hover{
+    background-color: lightskyblue;
+    font-weight: bold;
+    
+}
+
+button{
+    height: 50px;
+    width: 300px;
+}
+
 
